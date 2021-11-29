@@ -38,4 +38,6 @@
 
     1. Rinaldi: Stellar (XLM)
     2. Trancucci: Cardano (ADA)
+    3. Ömer Harun Çetin: Avalalanche (AVAX)
 
+    
