@@ -40,5 +40,6 @@
     2. Trancucci: Cardano (ADA)
     3. Ömer Harun Çetin: Avalalanche (AVAX)
     4. Di Rubbo: Solana
+    5. Sagristani: Polkadot
 
     
